@@ -11,7 +11,7 @@
 comm drive | Attendance | others
 --- | --- | ---
 [comm drive](https://drive.google.com/drive/folders/1N611CrInSh7oY2FuZ8u8YkOOIvAwqU86) | [Attendance form (1st term)](https://docs.google.com/spreadsheets/d/14DzmjfQTArHO2FmXFQNhxUUM51d95F66g004F39XtqY/edit#gid=1924342195) |  [librarian handbook](https://drive.google.com/file/d/1gNilI_ws1JOCsFQLxM7ilPIUNptp8_II/view) |
-| [Attendance form (2nd term)](https://docs.google.com/spreadsheets/d/1Q33TerCTj0eNQ945BL0Jky5tu64wRmAzYl41D2KF6rY/edit#gid=1924342195)
+| | [Attendance form (2nd term)](https://docs.google.com/spreadsheets/d/1Q33TerCTj0eNQ945BL0Jky5tu64wRmAzYl41D2KF6rY/edit#gid=1924342195)
 
 ## LSC e-library
 [![alt text](https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg)](https://sites.google.com/lasalle.edu.hk/e-library/home)
