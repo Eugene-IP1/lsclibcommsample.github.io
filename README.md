@@ -18,4 +18,4 @@ attendance | comm drive | others
 ## LSC e-library
 [![alt text](https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg)](https://sites.google.com/lasalle.edu.hk/e-library/home)
 
-<code style="color : light grey"> **Copyright © 2023, La Salle College Library Borad. All rights Reversed.** </code>
+<code style="color : red"> **Copyright © 2023, La Salle College Library Borad. All rights Reversed.** </code>
