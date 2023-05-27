@@ -10,12 +10,11 @@
 ## Resources
 comm drive | Attendance | others
 --- | --- | ---
-[comm drive](https://drive.google.com/drive/folders/1N611CrInSh7oY2FuZ8u8YkOOIvAwqU86) | [Attendance form (1st term)](https://docs.google.com/spreadsheets/d/14DzmjfQTArHO2FmXFQNhxUUM51d95F66g004F39XtqY/edit#gid=1924342195) |  [librarian handbook](https://drive.google.com/file/d/1gNilI_ws1JOCsFQLxM7ilPIUNptp8_II/view) |
 |  | [Attendance form (2nd term)](https://docs.google.com/spreadsheets/d/1Q33TerCTj0eNQ945BL0Jky5tu64wRmAzYl41D2KF6rY/edit#gid=1924342195)
 
-Markdown | Less | Pretty
+comm drive | attendance | others
 --- | --- | ---
-*Still* | `renders` | **nicely**
+[comm drive](https://drive.google.com/drive/folders/1N611CrInSh7oY2FuZ8u8YkOOIvAwqU86) | [Attendance form (1st term)](https://docs.google.com/spreadsheets/d/14DzmjfQTArHO2FmXFQNhxUUM51d95F66g004F39XtqY/edit#gid=1924342195) | [librarian handbook](https://drive.google.com/file/d/1gNilI_ws1JOCsFQLxM7ilPIUNptp8_II/view)
 1 | 2 | 3
 
 ## LSC e-library
