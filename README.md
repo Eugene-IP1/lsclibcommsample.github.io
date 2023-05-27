@@ -5,7 +5,7 @@
 
 ## Anouncement
 * Library board commitee members use only
-* The annunal AGM will be held on 31/5, 1320-1345, please attend punctually.
+* <code style="color : blue"> **The annunal AGM will be held on 31/5, 1320-1345, please attend punctually.** 
 
 ## Resources
 comm drive | Attendance | others
@@ -17,3 +17,4 @@ comm drive | Attendance | others
 [![alt text](https://assets.weforum.org/article/image/JMF96ETfn1kSViVnUou1Z0XIDwWcPpT5mrPc7-ytpAc.jpg)](https://sites.google.com/lasalle.edu.hk/e-library/home)
 
 <code style="color : black"> **Copyright © 2023, La Salle College Library Borad. All rights Reversed.** </code>
+
